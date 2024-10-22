@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @susienite
 - 👀 I’m interested in ... technology and health. 
-- 🌱 I’m currently learning ... self-learning Web Design and Algorithms. 
-- 💞️ I’m looking to collaborate on ... health tech. 
+- 🌱 I’m currently learning ... self-learning Data Science
 - 📫 How to reach me ...stan212435@gmail.com
 
 <!---
