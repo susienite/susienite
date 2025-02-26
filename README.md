@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @susienite
-- 👀 I’m interested in ... technology and health. 
+- 👀 I’m interested in ... technology, science/health, and education. 
 - 🌱 I’m currently learning ... self-learning Data Science
 - 📫 How to reach me ...stan212435@gmail.com
 
